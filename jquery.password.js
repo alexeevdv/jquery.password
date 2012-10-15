@@ -7,7 +7,7 @@
  *   http://www.gnu.org/licenses/gpl.html
  *
  * URL:
- *   http://alexeevdv.ru/jquery/password/
+ *   http://alexeevdv.ru/projects/jquery/password/
  *
  * Author URL:
  *   http://alexeevdv.ru/
